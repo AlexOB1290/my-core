@@ -1,0 +1,17 @@
+{
+    "name": "alexob1290/core",
+    "description": "none",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alexob1290\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alex"
+        }
+    ],
+    "require": {}
+}
